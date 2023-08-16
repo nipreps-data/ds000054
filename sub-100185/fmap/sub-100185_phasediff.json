@@ -5,10 +5,7 @@
     "SeriesTime": "102534.566000", 
     "NumberOfAverages": 1.0, 
     "ManufacturersModelName": "Skyra", 
-    "PATModeText": null, 
     "PhaseEncodingDirection": "i-", 
-    "BandwidthPerPixelPhaseEncode": null, 
-    "NumberOfEchoes": null, 
     "Columns": 96, 
     "PixelSpacing": [
         2.3958332538605, 
@@ -35,7 +32,6 @@
     "EchoTime1": 0.00451,
     "EchoTime2": 0.00697,
     "SequenceVariant": "SP", 
-    "SliceTiming": null, 
     "ImagingFrequency": 123.224177, 
     "StudyID": "1", 
     "ScanOptions": "", 

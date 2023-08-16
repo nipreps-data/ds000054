@@ -7,8 +7,6 @@
     "ManufacturersModelName": "Skyra", 
     "PATModeText": "p2", 
     "PhaseEncodingDirection": "i-", 
-    "BandwidthPerPixelPhaseEncode": null, 
-    "NumberOfEchoes": null, 
     "Columns": 256, 
     "PixelSpacing": [
         0.80078125, 
@@ -33,7 +31,6 @@
     "SeriesDescription": "T1w_MPR1_PMC", 
     "SequenceName": "*tfl3d1_16ns", 
     "SeriesNumber": 5, 
-    "SpacingBetweenSlices": null, 
     "ImageType": "ORIGINAL/PRIMARY/M/ND/NORM", 
     "EchoTime": 0.00194, 
     "SequenceVariant": [
@@ -42,7 +39,6 @@
         "MP", 
         "OSP"
     ], 
-    "SliceTiming": null, 
     "ImagingFrequency": 123.224174, 
     "StudyID": "1", 
     "ScanOptions": [
